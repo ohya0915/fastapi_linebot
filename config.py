@@ -1,0 +1,5 @@
+
+
+class Config:
+    CHANNEL_ACCESS_TOKEN = "VGwNwAUR4FetXWi9jTOyoGTyahkZfzUt+g0XeJVWI+S56MGED1keTTdivxR6Fd3lsIKbDKBdgcqEA+n2rti3N1zzL55IJ/EZbjyrtQjpPhmiqJpG8/z3HWZvX1e2hob95h9Nw1AQhEClzSkgejfQNAdB04t89/1O/w1cDnyilFU="
+    CHANNEL_SECRET = "3d3661a2bebabf39de60525bff3b7e80"
